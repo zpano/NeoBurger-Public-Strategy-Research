@@ -8,11 +8,13 @@
 
 ## NeoBurger-Public-Strategy 策略概述
 
-投资者发送NEO给
+根据Neo的治理机制，研究出Gas收益最多的投票方式，并将逻辑写入合约中。
+
+投资者发送Neo给合约，1:1获得bNEO，期间不断产生Gas奖励，通过发送和销毁bNeo，回收本金及获取Gas奖励。
 
 ## 攻击评价指标
 
-攻击需要投入的成本(包括不限于攻击所需要的NEO，GAS)-- Cost 
+攻击需要投入的成本(包括不限于攻击所需要的Neo，Gas)-- Cost 
 
 攻击影响的收益-- Unincome
 
